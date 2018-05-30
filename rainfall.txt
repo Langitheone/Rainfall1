@@ -1,0 +1,20 @@
+Algorithm
+Input
+Design a algorithm for three letters
+Processing Steps
+Sort the letters into ascending sequence
+Output 
+Display them to the monitor
+--------------------------------------------
+Algorithm
+compute the sals tax and total amount due, print customer name,purchase amount,sales tax, and total amount due.
+Input
+Gather all the tax codes
+Processing Steps
+Find the tax code thats been validated
+Output
+Display the sales tax
+-----------------------------------------------
+Input
+The amount of hrs worked (60)
+The hrly pay (25.00)
